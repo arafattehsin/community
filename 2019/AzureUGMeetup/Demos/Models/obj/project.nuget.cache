@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HlCEfKngu+kMqB3T0g3XOPzxO/6GBdjTMa6e/PiLP2uglRg2rQlJcQp+BVJ4QE1KnGRqv+4B93VnZD7D2P+lAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArafatTehsin\\source\\repos\\CognitiveRocketLive\\Community\\2019\\AzureUGMeetup\\Demos\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArafatTehsin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

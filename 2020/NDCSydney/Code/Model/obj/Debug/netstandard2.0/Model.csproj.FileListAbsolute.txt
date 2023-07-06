@@ -1,0 +1,9 @@
+C:\Users\ArafatTehsin\source\repos\NDCSydney\Model\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\ArafatTehsin\source\repos\NDCSydney\Model\bin\Debug\netstandard2.0\Model.dll
+C:\Users\ArafatTehsin\source\repos\NDCSydney\Model\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\ArafatTehsin\source\repos\NDCSydney\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\ArafatTehsin\source\repos\NDCSydney\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\ArafatTehsin\source\repos\NDCSydney\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\ArafatTehsin\source\repos\NDCSydney\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\ArafatTehsin\source\repos\NDCSydney\Model\obj\Debug\netstandard2.0\Model.dll
+C:\Users\ArafatTehsin\source\repos\NDCSydney\Model\obj\Debug\netstandard2.0\Model.pdb
